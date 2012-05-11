@@ -3,6 +3,7 @@
     "className": "CustomApp",
     "sdk": "2.0p",
     "javascript": [
+        "DrilldownCard.js",
         "App.js"
     ],
     "css": [

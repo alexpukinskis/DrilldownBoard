@@ -1,3 +1,4 @@
+[![Stories in Ready](http://badge.waffle.io/alexpukinskis/DrilldownBoard.png)](http://waffle.io/alexpukinskis/DrilldownBoard)  
 ## Overview
 
 This Rakefile can be used to create a skeleton Rally app for use with Rally's App SDK.  You must have Ruby and the rake gem installed.
